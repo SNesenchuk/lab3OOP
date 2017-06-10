@@ -1,0 +1,16 @@
+﻿Сборка начата 10.06.2017 21:54:49.
+     1>Проект "C:\Users\Светлана\Desktop\Stack\Stack\Stack.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Class Exam.cpp"
+         Class Exam.cpp
+     1>c:\users\светлана\desktop\stack\stack\class exam.cpp(313): warning C4715: Exam::editing: значение возвращается не при всех путях выполнения
+     1>c:\users\светлана\desktop\stack\stack\class exam.cpp(420): warning C4715: Stack::sorting: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Светлана\Desktop\Stack\Debug\Stack.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Светлана\Desktop\Stack\Debug\Stack.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Светлана\Desktop\Stack\Debug\Stack.lib" /MACHINE:X86 "Debug\Class Exam.obj"
+         Debug\main.obj
+         Stack.vcxproj -> C:\Users\Светлана\Desktop\Stack\Debug\Stack.exe
+     1>Сборка проекта "C:\Users\Светлана\Desktop\Stack\Stack\Stack.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.87
